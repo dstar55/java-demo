@@ -16,7 +16,6 @@ env:
   WEB_APP_ADDRESS: https://app.code-intelligence.com
   # Directory in which the repository will be cloned.
   CHECKOUT_DIR: checkout-dir/
-  CI_FUZZ_API_TOKEN: 15a70373-2f61-4f0b-aa17-0f8bc83714ff
 
 jobs:
   fuzz_tests:
